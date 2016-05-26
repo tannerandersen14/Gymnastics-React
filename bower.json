@@ -1,0 +1,21 @@
+{
+  "name": "gymnastics-react",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Tanner Andersen <tanner.andersen14@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
